@@ -14,7 +14,6 @@ export const SideBar = () => {
 
    
     <hr className="sidebar-divider my-0"/>
-
     
     <li className="nav-item active">
       <a className="nav-link" href="/">

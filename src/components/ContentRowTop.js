@@ -1,6 +1,7 @@
 import React from 'react';
 import mandalorian from '../assets/images/mandalorian.jpg';
 
+
 export const ContentRowTop = () => {
   return (
     <div className="container-fluid">

@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 export const Footer = () => {
   return (
     <footer className="sticky-footer bg-white">
@@ -11,3 +12,4 @@ export const Footer = () => {
   </footer>
   )
 }
+

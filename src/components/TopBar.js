@@ -8,10 +8,8 @@ export const TopBar = () => {
     <button id="sidebarToggleTop" className="btn btn-link d-md-none rounded-circle mr-3">
       <i className="fa fa-bars"></i>
     </button>
-
-   
+  
     <ul className="navbar-nav ml-auto">
-
       
       <li className="nav-item dropdown no-arrow mx-1">
         <a className="nav-link dropdown-toggle" href="/" id="alertsDropdown">
